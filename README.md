@@ -18,5 +18,14 @@ This is a simple dice game implemented in Python for two players. The players ta
    cd python-dice-game
 
    Then run python dice.py
-  
+
+2. Example Output
+   Player 1, you rolled a: 5
+   Player 1, you have a score of: 5
+   Player 1, you rolled a: 3
+   Player 1, you have a score of: 8
+   Player 1, you rolled a: 6
+   Player 1, you have a score of: 14
+   You are on a streak. Do you want to continue? (yes/no): no
+   Player 2, it is your turn.
    
